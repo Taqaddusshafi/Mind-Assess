@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.campusdisha.mindassess"
-    compileSdk = 34
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.campusdisha.mindassess"
